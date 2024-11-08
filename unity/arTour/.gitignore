@@ -1,0 +1,80 @@
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de Autoconfiguración de Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Archivos de Compilación
+*.exe
+*.dll
+*.app
+*.apk
+*.aab
+*.jar
+*.so
+*.dylib
+*.lib
+*.ipa
+*.symbols.zip
+
+# Archivos generados por OS específicos
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Archivos de Configuración de Usuario
+UserSettings/
+
+# Configuración de Paquetes
+*.pidb.meta
+*.pdb.meta
+*.opendb.meta
+*.VC.db.meta
+
+# Configuración específica de la máquina
+.idea/
+*.tmproj
+*.iml
+
+# Configuración de Rider
+.idea/
+*.sln.iml
+.DS_Store
+
+# Archivos de Unity Cloud Build
+# Estos archivos se generan automáticamente en el proceso de build en Unity Cloud.
+.Unity3d/
+
+# Otros
+# Si tienes archivos temporales de tus builds locales, puedes ignorarlos también
+Builds/
+
+#solo por esta vez porqeu son assets de ejemplo
+Assets/Low Poly Pack
+Assets/Models
+
+#Vforea
+Packages/com.ptc.vuforia.engine-10.27.3.tgz
