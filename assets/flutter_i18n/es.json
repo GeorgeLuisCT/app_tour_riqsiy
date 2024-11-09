@@ -64,6 +64,7 @@
   "category_boletos_buses": "Boletos de Buses",
   "category_boletos_avion": "Boletos de Avión",
   "category_restaurantes": "Restaurantes",
+  "category_artesania": "Artesanías Tradicionales",
 
   "travel_c1_title": "Ciudad de Bagua",
   "travel_c1_price1": "Hospedaje desde 40 x noche",
@@ -343,7 +344,15 @@
   "travel_p3_price1": "Desde $1",
   "travel_p3_price2": "Panes tradicionales",
   "travel_p3_desc1": "No accesible para silla de ruedas",
-  "travel_p3_desc2": "Cuenta con entrega y para llevar"
+  "travel_p3_desc2": "Cuenta con entrega y para llevar",
+
+  "travel_ar1_title": "Artesanía Awajun",
+  "travel_ar1_prices1": "Desde $40",
+  "travel_ar1_prices2": "Artesania reconocida mundialmente",
+  "travel_ar1_desc1": "reconocida como patrimonio imaterial de la humanidad",
+  "travel_ar1_desc2": "los diseños cuentan con una simetría axial",
+  "travel_ar1_desc3": "estás ceramicas representan un legado",
+  "travel_ar1_desc4": "estás representan creencias, ancestrales"
 
 }
   

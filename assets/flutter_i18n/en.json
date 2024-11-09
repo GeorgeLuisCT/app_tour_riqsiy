@@ -65,6 +65,7 @@
   "category_boletos_buses": "Bus Tickets",
   "category_boletos_avion": "Airplane Tickets",
   "category_restaurantes": "Restaurants",
+  "category_artesania": "Traditional crafts",
 
   "travel_c1_title": "City of Bagua",
   "travel_c1_price1": "Accommodation from 40 per night",
@@ -347,5 +348,13 @@
   "travel_p3_price1": "From $1",
   "travel_p3_price2": "Traditional breads",
   "travel_p3_desc1": "Not wheelchair accessible",
-  "travel_p3_desc2": "Offers delivery and take-out"
+  "travel_p3_desc2": "Offers delivery and take-out",
+
+  "travel_ar1_title": "Awajun Handicraft",
+  "travel_ar1_prices1": "From $40",
+  "travel_ar1_prices2": "Globally recognized handicraft",
+  "travel_ar1_desc1": "recognized as intangible cultural heritage",
+  "travel_ar1_desc2": "the designs feature axial symmetry",
+  "travel_ar1_desc3": "these ceramics represent a legacy",
+  "travel_ar1_desc4": "they represent ancestral beliefs"
 }

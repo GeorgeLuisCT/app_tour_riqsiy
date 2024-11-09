@@ -228,9 +228,24 @@ class _TravelDetailScreenState extends State<TravelDetailScreen> {
                 },
                 child: Text(t(context, 'Abrir Unity')),
               ),
+            if (selectedTravel.title == 'travel_ar1_title')
+              ElevatedButton(
+                onPressed: () {
+                  // Aquí puedes definir la navegación o acción deseada para el botón de Artesanía Awajun
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) =>
+                          const UnityScreen(sceneName: "AwajunScene"),
+                    ),
+                  );
+                },
+                child: Text(t(context, 'Artesanía Awajun')),
+              ),
           ],
         ),
       ),
     );
   }
 }
+

@@ -4,6 +4,11 @@ import './models/travel.dart';
 const List<Category>DUMMY_CATEGORIES= <Category>[
     //creacion de la categorias 
     Category(
+      id:'a1',
+      title: 'category_artesania',
+      catImage: 'images/artesania/ayawun8.jpg',
+    ),
+    Category(
       id: 'a2',
       title: 'category_ciudades',
       catImage: 'images/cat_images/chachapoyas-calles1.jpg',
@@ -1085,4 +1090,32 @@ const List<Travel>DUMMY_TRAVELS=<Travel>[
       whatsappLink: 'https://wa.me/51969135926',
       website: 'https://es.restaurantguru.com/Hailton-Pollos-and-Parrillas-Chachapoyas',
     ),
+    Travel(
+      id:'ar1',
+      categories: <String>['a1'],
+      title: 'travel_ar1_title',
+      priceTable: <String>[
+        'travel_ar1_prices1',
+        'travel_ar1_prices2',
+        
+      ],
+      accesibilidad: Accesibilidad.Medio,
+      planes: Planes.soloProducto,
+      imageCarousel: <String>[
+        'images/artesania/ayawun1.png',
+        'images/artesania/ayawun2.png',
+        'images/artesania/ayawun3.png',
+        'images/artesania/ayawun5.png',
+        'images/artesania/ayawun6.jpg',
+        'images/artesania/ayawun7.jpg',
+        'images/cat_images/ayawuncat.png',
+      ],
+      descripcion: <String>[
+        'travel_ar1_desc1',
+        'travel_ar1_desc2',
+        'travel_ar1_desc3',
+        'travel_ar1_desc4',
+      ],
+
+    ),  
 ];

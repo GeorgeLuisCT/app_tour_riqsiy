@@ -88,6 +88,7 @@ flutter:
     - images/cat_images/buschachapoyas.jpg
     - images/cat_images/restaurante.jpg
     - images/cat_images/productostradicionales.jpeg
+    - images/cat_images/ayawuncat.png
     #imagenes de ciudades
     - images/ciudades/baguacity.jpg
     - images/ciudades/baguagrande.jpg
@@ -432,6 +433,14 @@ flutter:
     #images del logo
     - dev_assets/logoapp1.png
     - dev_assets/logoapp2.png
+    #imagenes de artesania
+    - images/artesania/ayawun1.png
+    - images/artesania/ayawun2.png
+    - images/artesania/ayawun3.png
+    - images/artesania/ayawun5.png
+    - images/artesania/ayawun6.jpg
+    - images/artesania/ayawun7.jpg
+    - images/artesania/ayawun8.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
